@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+/* applies to all ps */
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#main {
+    color: brown;
+    background-color: darkgray;
+}
+.A {
+    
+}
